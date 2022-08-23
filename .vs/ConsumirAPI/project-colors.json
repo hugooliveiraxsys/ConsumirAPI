@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35ed4ea9-407e-413c-b97a-93799384b8b5": {
+      "ProjectGuid": "35ed4ea9-407e-413c-b97a-93799384b8b5",
+      "DisplayName": "ConsumirAPI",
+      "ColorIndex": 0
+    },
+    "a9072666-7ccd-46a9-9177-1b65a517cfb6": {
+      "ProjectGuid": "a9072666-7ccd-46a9-9177-1b65a517cfb6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "48c7fe9b-c140-46e4-b872-29c97aede374": {
+      "ProjectGuid": "48c7fe9b-c140-46e4-b872-29c97aede374",
+      "DisplayName": "Models",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
